@@ -1,0 +1,13 @@
+\frametitle{Java}
+
+    \begin{java}
+public class Exemplo {
+    public static void main(String[] args) {
+        int numero = 5;
+        int dobro = 2 * numero;
+
+        System.out.println("O dobro de " + numero +
+                         " eh " + dobro);
+    }
+}
+    \end{java}

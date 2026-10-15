@@ -1,0 +1,114 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{lorenz1963}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b3eeab11b971bbf5ed269c4f19465b91}{%
+           family={Lorenz},
+           familyi={L\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3eeab11b971bbf5ed269c4f19465b91}
+      \strng{fullhash}{b3eeab11b971bbf5ed269c4f19465b91}
+      \strng{bibnamehash}{b3eeab11b971bbf5ed269c4f19465b91}
+      \strng{authorbibnamehash}{b3eeab11b971bbf5ed269c4f19465b91}
+      \strng{authornamehash}{b3eeab11b971bbf5ed269c4f19465b91}
+      \strng{authorfullhash}{b3eeab11b971bbf5ed269c4f19465b91}
+      \field{labelalpha}{Lor63}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Atmospheric Sciences}
+      \field{number}{2}
+      \field{title}{Deterministic Nonperiodic Flow}
+      \field{volume}{20}
+      \field{year}{1963}
+      \true{nocite}
+      \field{pages}{130\bibrangedash 141}
+      \range{pages}{12}
+    \endentry
+    \entry{rudin1976}{book}{}
+      \name{author}{1}{}{%
+        {{hash=33be2fc2739d3493c6d6cc5d56a4c41e}{%
+           family={Rudin},
+           familyi={R\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill}%
+      }
+      \strng{namehash}{33be2fc2739d3493c6d6cc5d56a4c41e}
+      \strng{fullhash}{33be2fc2739d3493c6d6cc5d56a4c41e}
+      \strng{bibnamehash}{33be2fc2739d3493c6d6cc5d56a4c41e}
+      \strng{authorbibnamehash}{33be2fc2739d3493c6d6cc5d56a4c41e}
+      \strng{authornamehash}{33be2fc2739d3493c6d6cc5d56a4c41e}
+      \strng{authorfullhash}{33be2fc2739d3493c6d6cc5d56a4c41e}
+      \field{labelalpha}{Rud76}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{007054235X}
+      \field{title}{Principles of Mathematical Analysis}
+      \field{year}{1976}
+      \true{nocite}
+    \endentry
+    \entry{tao2006}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=4cea0d7ce90ed017dfa21b4cee6c72e9}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Terence},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Princeton University}%
+      }
+      \list{location}{1}{%
+        {Princeton, New Jersey}%
+      }
+      \strng{namehash}{4cea0d7ce90ed017dfa21b4cee6c72e9}
+      \strng{fullhash}{4cea0d7ce90ed017dfa21b4cee6c72e9}
+      \strng{bibnamehash}{4cea0d7ce90ed017dfa21b4cee6c72e9}
+      \strng{authorbibnamehash}{4cea0d7ce90ed017dfa21b4cee6c72e9}
+      \strng{authornamehash}{4cea0d7ce90ed017dfa21b4cee6c72e9}
+      \strng{authorfullhash}{4cea0d7ce90ed017dfa21b4cee6c72e9}
+      \field{labelalpha}{Tao06}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nonlinear Evolution Equations}
+      \field{type}{Ph.D. Thesis}
+      \field{year}{2006}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
